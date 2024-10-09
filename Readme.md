@@ -14,8 +14,8 @@
 
 ## Ready to Dive In? 🚀
 
-1. **Find an issue** that interests you and ask the project maintainers to assign it to you.  
-2. **Fork the repository** to your own GitHub.  
+1. **Find an issue** that is assigned to you, or ask the project maintainers to assign it if not.
+2. **Fork the repository** to your own GitHub.
 3. Clone it to your local machine:
    ```bash
    git clone "https://github.com/wmt-mobile/Hacktoberfest-2024.git"
@@ -24,7 +24,8 @@
    ```bash
    git checkout -b issue/branch-name
    ```
-5. **Add yourself** to the CONTRIBUTORS.md file using the format below:
+5. Resolve each question and create a separate folder for each one. **Make sure to submit each question as a separate PR** to ensure they are merged individually.
+6. After all your PRs have been merged, **add yourself** to the CONTRIBUTORS.md file using the format below:
    ```
    Name: [YOUR NAME](Github Profile Link)  
    Place: Your city  
@@ -32,14 +33,14 @@
    Programming Language: Which programming languages do you know?  
    Email: Your email  
    ```
-6. **Commit and push** your changes to your fork:
+7. **Commit and push** the CONTRIBUTORS.md changes:
    ```bash
-   git add .  
+   git add CONTRIBUTORS.md  
    git commit -m "Add YOUR NAME to contributors list"  
    git push origin issue/branch-name  
    ```
-7. Head back to GitHub and **submit a pull request (PR)** with a brief description of your awesome work!  
-8. Now, just chill and wait for your PR to be reviewed and merged. 🍹
+8. Head back to GitHub and **submit a final PR** to update the CONTRIBUTORS.md with your details.
+9. Now, just relax and wait for your final PR to be reviewed and merged. 🎉
 
 💡 **Pro Tip:** You can contribute to as many projects as you want, but only PRs to repositories tagged `hacktoberfest-accepted` or those that have the `hacktoberfest` topic count towards the 4-Pull Request goal.
 
