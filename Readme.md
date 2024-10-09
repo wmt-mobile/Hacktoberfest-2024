@@ -1,4 +1,4 @@
-# 🎉 Hacktoberfest 2024 - Online Meetup at WebMob Technologies 🎉
+# 🎉 Hacktoberfest-2024 Open Hack Day at WebMob Technologies 🎉
 
 ## 🌟 Open Source Love 🌟
 ---
