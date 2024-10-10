@@ -44,6 +44,13 @@
 
 💡 **Pro Tip:** You can contribute to as many projects as you want, but only PRs to repositories tagged `hacktoberfest-accepted` or those that have the `hacktoberfest` topic count towards the 4-Pull Request goal.
 
+## Resources to Help You:
+
+- [How to create a pull request on GitHub](https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github)
+- [Beginner’s guide to contributing to open-source projects](https://www.freecodecamp.org/news/how-to-contribute-to-open-source-projects-beginners-guide/)
+- [Git Cheat Sheet: How to use Git](https://www.digitalocean.com/community/cheatsheets/how-to-use-git-a-reference-guide)
+- [Hacktoberfest 2024 Git Cheat Sheet](https://github.com/user-attachments/assets/ee63dd97-713a-4719-9753-38941049b33b)
+
 ## 🎁 Bonus Points! 🎁
 ---
 
