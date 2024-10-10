@@ -35,8 +35,8 @@
    ```
 7. **Commit and push** the CONTRIBUTORS.md changes:
    ```bash
-   git add CONTRIBUTORS.md  
-   git commit -m "Add YOUR NAME to contributors list"  
+   git add .  
+   git commit -m "Added First Pull Request"  
    git push origin issue/branch-name  
    ```
 8. Head back to GitHub and **submit a final PR** to update the CONTRIBUTORS.md with your details.
