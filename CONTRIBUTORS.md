@@ -10,12 +10,15 @@ To contribute:
 
 ## Format:
 
-| Name                                                   | Place                                        | About              | Programming Languages     | Email (Optional)                            |
-| ------------------------------------------------------ | -------------------------------------------- | ------------------ | ------------------------- | ------------------------------------------- | --------------------- | --- |
-| [Tushar Pankhaniya](https://github.com/wmt-mob-tushar) | Ahmedabad, India                             | Mobile Developer   | React Native, Flutter     | N/A                                         |
-| [Hemal Rana](https://github.com/johndoe)               | San Francisco, USA                           | Backend is Love    | Laravel, PHP              | johndoe@email.com                           |
-| [Tushar](https://github.com/wmt-mob-tushar)            | Ahmedabad, India                             | Mobile Developer   | React Native, Flutter     | N/A                                         |
+| Name | Place | About | Programming Languages | Email (Optional) |
+| --- | --- | --- | --- | --- |
+| [Tushar Pankhaniya](https://github.com/wmt-mob-tushar) | Ahmedabad, India | Mobile Developer | React Native, Flutter | N/A |
+| [Hemal Rana](https://github.com/johndoe) | San Francisco, USA | Backend is Love | Laravel, PHP | johndoe@email.com |
+| [Tushar](https://github.com/wmt-mob-tushar) | Ahmedabad, India | Mobile Developer | React Native, Flutter | N/A |
+| [Harshil Padhiyar](https://github.com/harshilphs) | Ahmedabad, India | Full Stack Developer | React, Node, Next, Nest, Docker, MySQL, Postgrsql, MongoDB
 
-| [Jenil D GOhel](https://github.com/wm-jenildgohel) | Ahmedabad, India | Mobile App Developer | Android, Kotlin , Swift , Dart , Flutter | jenilg@webmobtech.com |
+<!-- | [YOUR NAME](https://github.com/your-profile) | Your City, Country | Short bio or introduction | List the languages you know or are learning | Your email (optional) | -->
+
+| [Jenil D GOhel](https://github.com/wm-jenildgohel) | Ahmedabad, India | Mobile App Developer | Android, iOS , Kotlin , Swift , Dart , Flutter | jenilg@webmobtech.com |
 
 <!--^^^^^ Write your information here without blank spacing ^^^^ -->
