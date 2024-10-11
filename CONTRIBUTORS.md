@@ -3,6 +3,7 @@
 Thank you to all our contributors! Please feel free to add your information below.
 
 To contribute:
+
 1. Fork this repo and clone it.
 2. Add your information in the format below.
 3. Commit your changes and submit a pull request.
@@ -19,5 +20,6 @@ To contribute:
 | [Daksh Makwana](https://github.com/daksh-wmt) | Ahmedabad, India | Software Developer | Laravel, PHP | N/A |
 <!-- | [YOUR NAME](https://github.com/your-profile) | Your City, Country | Short bio or introduction | List the languages you know or are learning | Your email (optional) | -->
 
+| [Jenil D GOhel](https://github.com/wm-jenildgohel) | Ahmedabad, India | Mobile App Developer | Android, iOS , Kotlin , Swift , Dart , Flutter | jenilg@webmobtech.com |
 
 <!--^^^^^ Write your information here without blank spacing ^^^^ -->
