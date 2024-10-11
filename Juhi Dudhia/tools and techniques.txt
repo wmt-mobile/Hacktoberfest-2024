@@ -1,1 +1,0 @@
-- ## Q. Write a blog on the tools and techniques your QA team uses to manage testing in complex projects.
