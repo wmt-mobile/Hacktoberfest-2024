@@ -23,5 +23,6 @@ To contribute:
 | [Daksh Makwana](https://github.com/daksh-wmt) | Ahmedabad, India | Software Developer | Laravel, PHP | N/A |
 | [Arpan Ladani](https://github.com/wmt-web-arpanl) | Ahmedabad, India | Humans over AI | Python, Machine Learning, Deep Learning, Computer Vision, Flask, Tensorflow, MongoDB, Milvus, Qdrant, Faiss, RAG Frameworks, Generative AI | N/A |
 | [Jenil D GOhel](https://github.com/wm-jenildgohel) | Ahmedabad, India | Mobile App Developer | Android, iOS , Kotlin , Swift , Dart , Flutter | jenilg@webmobtech.com |
+| [Mahesh Suthar](https://github.com/wmt-web-maheshs) | Ahmedabad, India | Web Developer | Magento, PHP | maheshs@webmobtech.com |
 <!-- | [YOUR NAME](https://github.com/your-profile) | Your City, Country | Short bio or introduction | List the languages you know or are learning | Your email (optional) | -->
 <!--^^^^^ Write your information here without blank spacing ^^^^ -->
