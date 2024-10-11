@@ -16,7 +16,7 @@ To contribute:
 | [Tushar](https://github.com/wmt-mob-tushar) | Ahmedabad, India | Mobile Developer | React Native, Flutter | N/A |
 | [Harshil Padhiyar](https://github.com/harshilphs) | Ahmedabad, India | Full Stack Developer | React, Node, Next, Nest, Docker, MySQL, Postgrsql, MongoDB
 | [Rahul Pathak](https://github.com/rahulpathak1706/) | Ahmedabad, India | Web Developer | Laravel, PHP, | N/A |
-| [Daksh Makwana](https://github.com/daksh-wmt) | Ahmedabad, India | Software Developer | Laravel, PHP | N/A |
+| [Khushbu Patel](https://github.com/KhushbuP03/) | Ahmedabad, India | Quality Analyst | Selenium,Playwright,javascript,python,web scrapping | N/A |
 <!-- | [YOUR NAME](https://github.com/your-profile) | Your City, Country | Short bio or introduction | List the languages you know or are learning | Your email (optional) | -->
 
 
