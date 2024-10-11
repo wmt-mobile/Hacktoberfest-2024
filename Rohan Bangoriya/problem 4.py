@@ -1,4 +1,4 @@
-## Q3. Given an integer array nums, return an array answer such that answer[i] is equal to the product of all the elements of nums except nums[i].
+## ## Q4. Given an array of integers nums containing n + 1 integers where each integer is in the range [1, n] inclusive.
 
 # - There is only one repeated number in nums, return this repeated number.
 
