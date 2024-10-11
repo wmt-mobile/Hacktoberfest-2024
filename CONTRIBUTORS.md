@@ -14,6 +14,7 @@ To contribute:
 | [Tushar Pankhaniya](https://github.com/wmt-mob-tushar) | Ahmedabad, India | Mobile Developer | React Native, Flutter | N/A |
 | [Hemal Rana](https://github.com/johndoe) | San Francisco, USA | Backend is Love | Laravel, PHP | johndoe@email.com |
 | [Tushar](https://github.com/wmt-mob-tushar) | Ahmedabad, India | Mobile Developer | React Native, Flutter | N/A |
+| [Harshil Padhiyar](https://github.com/harshilphs) | Ahmedabad, India | Full Stack Developer | React, Node, Next, Nest, Docker, MySQL, Postgrsql, MongoDB
 | [Rahul Pathak](https://github.com/rahulpathak1706/) | Ahmedabad, India | Web Developer | Laravel, PHP, | N/A |
 <!-- | [YOUR NAME](https://github.com/your-profile) | Your City, Country | Short bio or introduction | List the languages you know or are learning | Your email (optional) | -->
 
