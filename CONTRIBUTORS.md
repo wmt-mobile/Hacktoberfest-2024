@@ -15,7 +15,9 @@ To contribute:
 | [Hemal Rana](https://github.com/johndoe) | San Francisco, USA | Backend is Love | Laravel, PHP | johndoe@email.com |
 | [Tushar](https://github.com/wmt-mob-tushar) | Ahmedabad, India | Mobile Developer | React Native, Flutter | N/A |
 | [Harshil Padhiyar](https://github.com/harshilphs) | Ahmedabad, India | Full Stack Developer | React, Node, Next, Nest, Docker, MySQL, Postgrsql, MongoDB
-| [Arpan Ladani](https://github.com/wmt-web-arpanl/) | Ahmedabad, India | Humans over AI | Python, Machine Learning, Deep Learning, Tensorflow, Computer Vision, Generative AI, RAG Frameworks, MongoDB, Milvus, Qdrant, Faiss
+| [Rahul Pathak](https://github.com/rahulpathak1706/) | Ahmedabad, India | Web Developer | Laravel, PHP, | N/A |
+| [Daksh Makwana](https://github.com/daksh-wmt) | Ahmedabad, India | Software Developer | Laravel, PHP | N/A |
+| [Arpan Ladani](https://github.com/wmt-web-arpanl) | Ahmedabad, India | Humans over AI | Python, Machine Learning, Deep Learning, Computer Vision, Flask, Tensorflow, MongoDB, Milvus, Qdrant, Faiss, RAG Frameworks, Generative AI | N/A |
 <!-- | [YOUR NAME](https://github.com/your-profile) | Your City, Country | Short bio or introduction | List the languages you know or are learning | Your email (optional) | -->
 
 
