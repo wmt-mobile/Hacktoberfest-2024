@@ -17,7 +17,9 @@ function findDuplicate(nums) {
 
     return hare; // or return tortoise; both are equal here
 }
-
-// Example usage
+// Example usages
 let nums = [1, 3, 4, 2, 2];
 console.log(findDuplicate(nums)); // Output: 2
+
+
+
