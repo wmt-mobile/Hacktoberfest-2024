@@ -28,4 +28,4 @@ function lengthOfLongestSubstring($s)
 // Example usage
 $s = "abcabcbb";
 $result = lengthOfLongestSubstring($s);
-echo $result; // Output: 3
+echo $result; // Output: 3  
