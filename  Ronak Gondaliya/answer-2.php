@@ -1,7 +1,5 @@
 <?php 
-
 function permutation(string $a, string $b){
-
     if(strlen($a) != strlen($b)){
         return false;
     }
@@ -11,7 +9,6 @@ function permutation(string $a, string $b){
     sort($b);
     return $a == $b;
 }
-
 print_r(permutation('abcd','dcba') ? "True" : "False");
 
 ?>
