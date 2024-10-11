@@ -22,3 +22,6 @@ function productExceptSelf(nums) {
 // Example usage
 let nums = [1, 2, 3, 4];
 console.log(productExceptSelf(nums)); // Output: [24, 12, 8, 6]
+
+
+
