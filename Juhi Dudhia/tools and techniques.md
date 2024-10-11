@@ -27,8 +27,6 @@ Automated testing is indispensable in complex projects where manual testing woul
 
 In complex projects, multiple teams work simultaneously on different modules, and changes in one area can affect another. A strong version control system ensures that code changes are managed and tracked efficiently.
 
-- **Git**: Using Git ensures that every code change is logged, reviewed, and, if necessary, rolled back without disrupting the entire codebase. Our QA team also uses Git for testing branches of code before they are merged into the main build. This way, we catch potential issues early on.
-
 ## 4. Defect Tracking and Reporting
 
 Tracking defects and ensuring that they are fixed promptly is vital to project success.
