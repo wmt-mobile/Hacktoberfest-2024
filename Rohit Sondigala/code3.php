@@ -25,3 +25,4 @@ function productExceptSelf($nums) {
 $nums = [1, 2, 3, 4];
 $result = productExceptSelf($nums);
 print_r($result);  // Output: [24, 12, 8, 6]
+
