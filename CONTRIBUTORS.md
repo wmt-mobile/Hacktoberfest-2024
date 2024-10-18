@@ -31,3 +31,5 @@ To contribute:
 | [Somin Dadhaniya](https://github.com/DadhaniyaSomin/DadhaniyaSomin) | Ahmedabad, India | somind@webmobtech.com |
 
 | [Mahesh Suthar](https://github.com/web-mob-maheshs) | Ahmedabad, India | Software Developer | Magento PHP | maheshs@webmobtech.com 
+
+| [Rohit Sondigala](https://github.com/Rohits0112) | Ahmedabad, India | Software Developer | PHP, Laravel | rohits@webmobtech.com 
