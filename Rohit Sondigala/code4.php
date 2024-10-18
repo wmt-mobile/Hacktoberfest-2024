@@ -25,4 +25,4 @@ function findDuplicate($nums) {
 
 // Example usage:
 $nums = [1, 3, 4, 2, 2];
-echo findDuplicate($nums); 
+echo findDuplicate($nums);  // Output: 2
